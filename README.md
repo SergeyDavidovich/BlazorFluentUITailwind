@@ -7,3 +7,7 @@
 
 ### 1.2 Tailwind links:
 [Tailwind CSS](https://tailwindcss.com/)
+
+### 2. Terminal compilation string
+#### npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/dist/tailwind.css --watch ####
+
