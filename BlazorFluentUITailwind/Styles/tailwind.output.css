@@ -538,11 +538,6 @@ video {
   margin: 0.5rem;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
 .text-8xl {
   font-size: 6rem;
   line-height: 1;
@@ -550,9 +545,4 @@ video {
 
 .font-extrabold {
   font-weight: 800;
-}
-
-.text-amber-600 {
-  --tw-text-opacity: 1;
-  color: rgb(217 119 6 / var(--tw-text-opacity));
 }
