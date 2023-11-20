@@ -538,6 +538,18 @@ video {
   margin: 0.5rem;
 }
 
+.m-2\.5 {
+  margin: 0.625rem;
+}
+
+.m-80 {
+  margin: 20rem;
+}
+
+.m-20 {
+  margin: 5rem;
+}
+
 .text-8xl {
   font-size: 6rem;
   line-height: 1;
