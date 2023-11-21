@@ -5,13 +5,24 @@
 
 @* <h1 class="font-extrabold text-8xl m-2 text-red-600">Hello, world!</h1> *@
 
-<div class="m-20">
-
-<FluentCard Width="400px" Height="250px">
-  <h2>Hello World!</h2>
-  <FluentButton Appearance="@Appearance.Accent">Click Me</FluentButton>
+<div class="m-20 flex">
+    <FluentCard Width="400px" Height="250px" Class="text-red-600 bg-blue-600 drop-shadow-xl flex-auto">
+        <p class="text-4xl text-blue-50">@currentCount</p>
+  <FluentButton  Appearance="@Appearance.Accent" OnClick="IncrementCount">Click Me</FluentButton>
 </FluentCard>
+
 </div>
+
+@code
+{
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
+
 		
 
 
