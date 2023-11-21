@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-tzEE6sYohuakTPGZV17p\/3D0JhU\/swvzr8LpxOrY0HQ=",
+      "hash": "sha256-lIhCm\/AGmgU91HLDYYkupRjlkBhcgVnL8ncVsnArNdA=",
       "url": "dist\/tailwind.css"
     },
     {
@@ -61,15 +61,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-eVGRVMtYBP82GrJxEv4Lvo+\/DXO6Knukts0th6WaSVY=",
+      "hash": "sha256-KEKCnhvvmT+2UP8DCIgdFLrm+i6Kb2zODU5HHutGlno=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-q2Gqqwqqh5Dd6ZhpTx4o98za9CXcUSWIZh8ZEaJneSw=",
+      "hash": "sha256-tOkjBA4oY0HlSQZaEPkd\/\/OLHjXZNOd48qicNIpmVRU=",
       "url": "_framework\/BlazorFluentUITailwind.wasm"
     },
     {
-      "hash": "sha256-YEF21p+G5C1yAXT6AeO35mi5bVWYlzB8tuuykoawR2U=",
+      "hash": "sha256-N0hc2nAEiF+sjWcxti5qrjwC3151ebjo097HNsYOPT4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -177,7 +177,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-6R8E9xP3ACLddEkW3hfKK4qhwz+s+rLvdwfP+ODUhUQ=",
+      "hash": "sha256-JNQIR2DmsSEXsfHincc8CMOuHTuEXCCXOg7xu3drVH8=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -273,5 +273,5 @@
       "url": "_content\/Microsoft.FluentUI.AspNetCore.Components\/Microsoft.FluentUI.AspNetCore.Components.lib.module.js"
     }
   ],
-  "version": "g\/uihLZs"
+  "version": "R8LNEXUt"
 };
