@@ -1,4 +1,4 @@
-## Demo project of combining BlazorFluentUI components and TailwindCSS framework
+## Demo project combining BlazorFluentUI components and TailwindCSS framework
 
 ## 1. Project links:
 ### 1.2 Blazor links:
